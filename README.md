@@ -11,9 +11,6 @@ The dashboard includes the following key components:
 ### Key Performance Indicators (KPIs)
 - **Total Sales**  
 - **Total Profit**  
-- **Number of Orders** (optional)  
-
-*Displayed horizontally for quick summary.*
 
 ### Trend and Comparison Visuals
 - **Line Chart:**  
@@ -25,7 +22,7 @@ The dashboard includes the following key components:
   Shows which categories drive the most profit.  
   - Axis: Category vs Profit  
 
-- **Map Chart or Bar Chart:**  
+- **Bar Chart:**  
   Highlights best and worst performing states by sales.  
   - Axis: State vs Sales  
 
@@ -40,10 +37,6 @@ The dashboard includes the following key components:
 - Category  
 - Region  
 - State  
-- Segment  
-- Order Date  
-
-*Filters apply to all visuals for customized analysis.*
 
 ## Features and Enhancements
 - Clear and bold titles for all visuals  
@@ -52,14 +45,3 @@ The dashboard includes the following key components:
 - Tooltips enabled for detailed info on hover  
 - Optional footer with author name, logo, or date  
 
-## How to Use
-1. Open the Power BI Desktop file (`.pbix`) included in this repository.  
-2. Use the slicers to filter data based on your requirements.  
-3. Explore the dashboard visuals to analyze sales performance and product insights.  
-
-## Dataset
-*Include information or link about the dataset used (if public or sample).*
-
-## Author
-*Your Name*  
-*Your Contact Info or GitHub Profile Link*
