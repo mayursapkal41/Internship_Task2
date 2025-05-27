@@ -1,6 +1,6 @@
 # Superstore Sales Analysis Dashboard
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](data.png)
 
 This Power BI dashboard provides an insightful analysis of superstore sales data, focusing on overall performance, trends, profitability, and product-level insights.
 
