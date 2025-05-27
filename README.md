@@ -33,7 +33,5 @@ Built using the [Sample Superstore dataset](#dataset), it showcases best practic
 - Region  
 - State   
 
-*Filters apply across all visuals for dynamic, drill-down analysis.*
 
----
 
